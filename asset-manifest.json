@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eduardoweglinsynchrotechnologies/devportal/static/css/main.073c9b0a.css",
+    "main.js": "/eduardoweglinsynchrotechnologies/devportal/static/js/main.b4aeb7f1.js",
+    "static/js/787.479f9028.chunk.js": "/eduardoweglinsynchrotechnologies/devportal/static/js/787.479f9028.chunk.js",
+    "static/media/logo.svg": "/eduardoweglinsynchrotechnologies/devportal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/eduardoweglinsynchrotechnologies/devportal/index.html",
+    "main.073c9b0a.css.map": "/eduardoweglinsynchrotechnologies/devportal/static/css/main.073c9b0a.css.map",
+    "main.b4aeb7f1.js.map": "/eduardoweglinsynchrotechnologies/devportal/static/js/main.b4aeb7f1.js.map",
+    "787.479f9028.chunk.js.map": "/eduardoweglinsynchrotechnologies/devportal/static/js/787.479f9028.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b4aeb7f1.js"
+  ]
+}
